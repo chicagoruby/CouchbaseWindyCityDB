@@ -7,7 +7,7 @@ http://www.couchbase.com/develop/Ruby/current
 
 
 Couchbase Java Training:
-========= ==== ========
+===
 
 Use the CouchbaseJavaPresentation.pdf for 2-day (or longer) training.
 Use the CouchbaseJavaPresentationAbbreviated.pdf for shorter training.
