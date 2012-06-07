@@ -1,0 +1,20 @@
+Couchbase Java Training:
+========= ==== ========
+
+Use the CouchbaseJavaPresentation.pdf for 2-day (or longer) training.
+Use the CouchbaseJavaPresentationAbbreviated.pdf for shorter training.
+
+Refer to the presentation or CouchbaseJavaManual.pdf for prerequisite
+software including some installation instructions.
+
+The following sub-directories contain
+
+docs		Javadocs for the SDK
+Exercies 	Exercises (including optional exercises)	
+JARs		All the Java SDK Jar files and dependencies
+sources		Java source for the SDK
+
+E-mail training@couchbase.com for concerns/clarifications.
+
+
+ 

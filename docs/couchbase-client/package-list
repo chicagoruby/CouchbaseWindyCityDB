@@ -1,0 +1,6 @@
+com.couchbase.client
+com.couchbase.client.http
+com.couchbase.client.internal
+com.couchbase.client.protocol.views
+com.couchbase.client.vbucket
+com.couchbase.client.vbucket.config
