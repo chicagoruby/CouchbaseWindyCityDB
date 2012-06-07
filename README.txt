@@ -1,3 +1,11 @@
+Couchbase Ruby Training:
+========= ==== ========
+
+Much of this repo is geared toward Java. For information on Couchbase Server using Ruby, visit
+http://www.couchbase.com/develop/Ruby/current
+
+
+
 Couchbase Java Training:
 ========= ==== ========
 
