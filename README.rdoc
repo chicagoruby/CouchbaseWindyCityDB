@@ -1,0 +1,17 @@
+= Couchbase Prep for WindyCityDB 2012
+
+This repo contains file used before & during the WindyCityDB 2012 Couchbase
+session.
+
+== Installing Couchbase for Ruby
+
+Getting Couchbase Server up and running was very straight-forward. It comes as a compressed .app file. Download & decompress the .app file, and drop it in /Applications. Congrats on a successful Couchbase server installation. 
+
+== Dependencies
+
+The Couchbase Ruby Gem requires libcouchbase, which is available via
+Homebrew. Therefore installing the gem is a two-step process:
+
+  brew install libcouchbase
+  gem install couchbase
+
